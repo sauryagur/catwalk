@@ -1,0 +1,19 @@
+{
+  "name": "catwalk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauryagur/catwalk.git"
+  },
+  "author": "Saurya Gur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sauryagur/catwalk/issues"
+  },
+  "homepage": "https://github.com/sauryagur/catwalk#readme",
+  "description": ""
+}
