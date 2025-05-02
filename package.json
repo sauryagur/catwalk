@@ -1,19 +1,11 @@
 {
-  "name": "catwalk",
+  "name": "kitcat",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "kitcat": "./index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sauryagur/catwalk.git"
-  },
+  "description": "A CLI tool that recursively walks through your directory and outputs a tree view, file contents, and metadata.",
+  "keywords": ["cli", "cat", "file tree", "nodejs"],
   "author": "Saurya Gur",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sauryagur/catwalk/issues"
-  },
-  "homepage": "https://github.com/sauryagur/catwalk#readme",
-  "description": ""
+  "license": "MIT"
 }
