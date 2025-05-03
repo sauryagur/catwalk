@@ -38,3 +38,5 @@ program
     "-v, --verbose",
     "Log extra information to the console during execution",
   );
+
+program.parse(process.argv);
